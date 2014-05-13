@@ -1,3 +1,14 @@
+# Building the WhiteStar OpenLayers library
+
+    $ cd build
+    $ ./build.py whitestar.cfg
+    $ copy OpenLayers.js [WSA_WEB_PROJECT_DIR]/vendor/assets/javascripts
+
+<br />
+<br />
+<br />
+
+
 # OpenLayers
 
 Copyright (c) 2005-2014 OpenLayers Contributors. See authors.txt for
